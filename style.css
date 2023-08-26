@@ -1,6 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;
 }
 body{
     margin: 0px;
@@ -39,6 +41,11 @@ aside{
     align-items: center;
     height: 40px;
 }
+h4{
+    font-weight: 500;
+}
+
+
 .nav-container .search-bar{
     position: relative;
     margin-left: 10px;
@@ -92,7 +99,7 @@ aside{
 
 }
 .restro-name{
-    margin-top: -15px;
+    margin-top: -20px;
 }
 .slogan{
     color: red;
@@ -108,7 +115,7 @@ aside{
 
 }
 .links ol li{
-    margin: 5px;
+    margin: 3px;
 }
 .about-us h4{
     text-align: center;
@@ -119,7 +126,7 @@ aside{
     margin-left: 30px;
 }
 .about-us ol li{
-    margin: 5px;
+    margin: 3px;
 }
 /* ------------aside end---------------------- */
 /* ------------Main content start---------------------- */
